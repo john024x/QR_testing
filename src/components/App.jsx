@@ -54,7 +54,6 @@ const App = () => {
         <option value="user">User</option>
         <option value="environment">environment</option>
       </select>
-      <button onClick={test}>click me</button>
     
       <h2>{Qr.result}</h2>
     </center>
